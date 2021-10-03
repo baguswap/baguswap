@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @baguswap
+- 👋 Hi, I’m Bagus Wahyu Ari Pratama
 - 👀 I’m interested in UI/UX
 - 🌱 I’m currently learning Information System
 - 💞️ I’m looking to collaborate on ...
